@@ -1,0 +1,2 @@
+在help edit custom vm options 末尾加入下面字段
+-Drecreate.x11.input.method=true
